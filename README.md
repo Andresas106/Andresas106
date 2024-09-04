@@ -24,7 +24,9 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 
 ## My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106)](https://github.com/andresas106/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106&theme=merko)](https://github.com/andresas106/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mu-flax-18.vercel.app/api/top-langs/?username=andresas106)](https://github.com/andresas106/github-readme-stats)
+
 
 <!--
 **Andresas106/Andresas106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

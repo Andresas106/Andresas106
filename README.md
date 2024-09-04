@@ -20,8 +20,11 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
     <img src="https://img.shields.io/badge/Wordpress-blue?logo=wordpress">
   </p>
+<!--https://github-readme-stats-mu-flax-18.vercel.app/-->
 
+## My Github Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106)](https://github.com/andresas106/github-readme-stats)
 
 <!--
 **Andresas106/Andresas106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

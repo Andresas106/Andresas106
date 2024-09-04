@@ -28,7 +28,7 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
   <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api/top-langs/?username=andresas106&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=merko">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresas106&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresas106&theme=merko&hide_total_contributions=true">
 </p>
 
 ## Connect with me

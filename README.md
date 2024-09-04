@@ -31,6 +31,11 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresas106&theme=merko">
 </p>
 
+## Connect with me
+<p align="left">
+<a href="https://instagram.com/coder.creations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.creations" height="30" width="40" /></a>
+</p>
+
 
 
 

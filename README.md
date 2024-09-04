@@ -23,9 +23,10 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 <!--https://github-readme-stats-mu-flax-18.vercel.app/-->
 
 ## My Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106&theme=merko)](https://github.com/andresas106/github-readme-stats)
-[![Top Langs](https://github-readme-stats-mu-flax-18.vercel.app/api/top-langs/?username=andresas106)](https://github.com/andresas106/github-readme-stats)
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106&theme=merko">
+  <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api/top-langs/?username=andresas106&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=merko">
+</p>
 
 
 <!--

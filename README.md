@@ -47,5 +47,5 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 </p>
 
 ## My projects
-[Web project](https://www.influencetarget.com) as **Backend Developer.**
+[Web project](https://www.influencetarget.com) as **Backend Developer.** (WIP)
 

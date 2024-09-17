@@ -7,7 +7,7 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 <br>
 <br>
 <p align="center">
-🌱 I’m currently learning React, mobile development with Android and generative art with Processing.
+🌱 I’m currently learning React, mobile development with Flutter and generative art with Processing.
 </p>
 <br>
 <br>

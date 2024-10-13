@@ -17,19 +17,24 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 
 ## Technology Stack
   <p align="center">
-    <img src="https://img.shields.io/badge/C-%23014b82?logo=c">
-    <img src="https://img.shields.io/badge/C%23-%239b4993?logo=dotnet">
-    <img src="https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-    <img src="https://img.shields.io/badge/PHP-black?logo=php">
-    <img src="https://img.shields.io/badge/Angular-a6120d?logo=angular">
-    <img src="https://img.shields.io/badge/Unity-black?logo=unity">
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
-    <img src="https://img.shields.io/badge/Oracle-darkgray?logo=oracle">
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-    <img src="https://img.shields.io/badge/Wordpress-blue?logo=wordpress">
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=plastic">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=plastic">
   </p>
 
 ## My Github Stats

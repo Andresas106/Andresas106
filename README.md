@@ -35,6 +35,8 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=plastic">
+
   </p>
 
 ## My Github Stats

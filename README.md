@@ -56,4 +56,6 @@ I'm a 4th year student pursuing Multimedia career in Barcelona, Spain. I have pa
 ## My projects
 - [Web project](https://www.influencetarget.com) as **Backend Developer**.
 - [Mod project](https://steamcommunity.com/sharedfiles/filedetails/?id=3288510635) as **Event Scripter** (WIP).
+- [Game Jam Project (1 Week game)](https://github.com/Andresas106/LoopedGameJam) as Unity Programmer.
+- [Game Project](https://github.com/Andresas106/PBL6_BacoStudios/releases/tag/v0.1.0) as Unity Programmer.
 

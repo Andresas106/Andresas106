@@ -3,7 +3,7 @@
 
 ## About Me
 <p align="center">
-🎓 I'm a soon-to-be Multimedia graduate from Spain (Barcelona UPC), passionate about building creative and functional digital experiences.
+🎓 I'm a Multimedia graduate from Spain (Barcelona UPC), passionate about building creative and functional digital experiences.
 Over the past four years, I've explored a wide range of fields — from backend and mobile development, to game modding, creative coding, and even integrating AI into real-world applications.
 </p>
 <br>
@@ -38,6 +38,7 @@ Over the past four years, I've explored a wide range of fields — from backend 
     <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge&style=plastic">
   </p>
 
 ## My Github Stats

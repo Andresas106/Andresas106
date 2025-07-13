@@ -59,7 +59,9 @@ Over the past four years, I've explored a wide range of fields — from backend 
 
 ## My projects
 - [Web project](https://www.influencetarget.com) as **Backend Developer**.
-- [Game Jam Project (1 Week game)](https://github.com/Andresas106/LoopedGameJam) as Unity Programmer.
-- [Game Project](https://github.com/Andresas106/PBL6_BacoStudios/releases/tag/v0.1.0) as Unity Programmer.
-- [AR MiniGame Project](https://github.com/Andresas106/AR_Project/releases/tag/v1.0.0-alpha) as Unity Programmer
+- [Game Jam Project (1 Week game)](https://github.com/Andresas106/LoopedGameJam) as **Unity Programmer**.
+- [Game Project](https://github.com/Andresas106/PBL6_BacoStudios/releases/tag/v0.1.0) as **Unity Programmer**.
+- [AR MiniGame Project](https://github.com/Andresas106/AR_Project/releases/tag/v1.0.0-alpha) as **Unity Programmer**.
+- [Final Degree Application](https://github.com/Andresas106/RestaurantOrderSystem/releases/tag/v0.1.0) as **Fullstack Developer**.
+- [Trivia Application](https://github.com/Andresas106/MindQuake) as **Backend Developer**.
 

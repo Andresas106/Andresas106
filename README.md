@@ -24,6 +24,7 @@ Over the past four years, I've explored a wide range of fields — from backend 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic">
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=plastic">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic">
     <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic">
     <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=plastic">

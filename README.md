@@ -65,4 +65,5 @@ Over the past four years, I've explored a wide range of fields — from backend 
 - [AR MiniGame Project](https://github.com/Andresas106/AR_Project/releases/tag/v1.0.0-alpha) as **Unity Programmer**.
 - [Final Degree Application](https://github.com/Andresas106/RestaurantOrderSystem/releases/tag/v0.1.0) as **Fullstack Developer**.
 - [Trivia Application](https://github.com/Andresas106/MindQuake) as **Backend Developer**.
+- [VR Game Project](https://github.com/Andresas106/VRProject/releases/tag/v0.0.2) as **Unity Programmer**
 

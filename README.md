@@ -9,7 +9,7 @@ Over the past four years, I've explored a wide range of fields — from backend 
 <br>
 <p>💻 My journey has led me to develop full-stack applications, mobile apps in Flutter, and interactive experiences using generative visuals and sound. I've also worked on backend systems for real-time restaurant management and led modding projects for Crusader Kings 3.</p>
 <br>
-<p>🌱 Right now, I’m focused on finishing my final degree project: an intelligent order management system for restaurants using Flutter, Firebase, and AI-driven messaging.
+<p>🌱 Right now, I’m focused in a game project with some friends using Unity and Twitch API.
 🎮 I love experimenting at the intersection of technology, design, and storytelling — whether it’s through code, visuals, or gameplay.</p>
 <br>
 <p>💬 Let's connect! I'm always happy to chat about backend development, creative coding, or anything tech-related.</p>

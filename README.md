@@ -12,6 +12,8 @@ Unity is the medium — **system behavior is the goal**.
 ## Tools & Technologies
 
 ### Primary Focus
+Technologies I use daily to build and stress-test real-time gameplay systems.  
+This is my core skill set.
 <p>
   <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=plastic">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=plastic">
@@ -23,6 +25,8 @@ Unity is the medium — **system behavior is the goal**.
 ---
 
 ### Additional Experience
+Tools I’ve worked with in secondary contexts.  
+Useful for context and integration — **not where my core value lies**.
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic">

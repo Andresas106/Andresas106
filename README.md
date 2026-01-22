@@ -9,23 +9,6 @@ Unity is the medium — **system behavior is the goal**.
 
 ---
 
-## What I Do
-
-- 🧩 **Systems & Architecture**
-  - Clear separation of responsibilities
-  - Interface-driven design
-  - Maintainable and extensible code
-- ⚙️ **Technical Prototyping**
-  - Rapid validation of ideas
-  - Exploring failure modes and edge cases
-  - Turning vague concepts into testable systems
-- 🧪 **Real-Time & Interactive Logic**
-  - Event-based and condition-driven systems
-  - Player / system interaction
-  - State handling under pressure
-
----
-
 ## Tools & Technologies
 
 ### Primary Focus

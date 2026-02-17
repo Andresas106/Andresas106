@@ -50,7 +50,7 @@ Useful for context and integration — **not where my core value lies**.
 
 ## My Github Stats
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106&theme=merko">
+  <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api?username=andresas106&include_all_commits=true&theme=merko">
   <img height=200 align="center" src="https://github-readme-stats-mu-flax-18.vercel.app/api/top-langs/?username=andresas106&layout=compact&langs_count=4&card_width=320&size_weight=0.5&count_weight=0.5&theme=merko">
 </p>
 <p align="center">

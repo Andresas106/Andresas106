@@ -71,10 +71,6 @@ Role: *Unity Programmer* → https://github.com/Andresas106/PBL6_BacoStudios
 Augmented reality prototype · spatial interaction · constraints  
 Role: *Unity Programmer* → https://github.com/Andresas106/AR_Project
 
-**Restaurant Order System**  
-Final degree project · full-stack · real-time order management  
-Role: *Full Stack Developer* → https://github.com/Andresas106/RestaurantOrderSystem
-
 **Trivia Application**  
 Backend-focused application · system logic · data flow  
 Role: *Backend Developer* → https://github.com/Andresas106/MindQuake
